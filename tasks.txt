@@ -2,3 +2,5 @@
 Complete Git lesson
 Review Python basics
 Start Python exercises
+
+Adding comment for walkthrough example for breakout group 1
